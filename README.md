@@ -16,6 +16,7 @@ git add <file names>
 git add *   //to add all files listed
 ```
 'git status' should now show all files staged for commit in green
+
 5. Commit your files
 ```
 git commit -m "type a message outlining changes here"
