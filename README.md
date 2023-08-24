@@ -1,4 +1,4 @@
-# Cpsc330 HW 
+# Cpsc330 - Applied Machine Learning
 ### How to push your local changes to our repo using terminal commands
 1. In terminal, navigate to our repo folder on your local computer
 2. Make sure your local is up to date with changes from our repo
